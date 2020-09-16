@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Tue, 15 Sep 2020 22:51:58 at https://artonthehill.org.uk
+(httrack https://artonthehill.org.uk -W -O /Users/jonnycundall/websites/aoth-static-2 -a -r4 -w )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:53:57	Error: 	"Not Found" (404) at link https://artonthehill.org.uk/archive/ (from https://artonthehill.org.uk/artists-2019/)
+22:55:25	Error: 	"Not Found" (404) at link https://artonthehill.org.uk/venues-2019/favicon.ico (from https://artonthehill.org.uk/venues-2019/windmill-hill-community-centre/)
+22:55:25	Error: 	"Not Found" (404) at link https://artonthehill.org.uk/artists-2019/favicon.ico (from https://artonthehill.org.uk/artists-2019/abigail-vedoey/)
+22:55:25	Error: 	"Not Found" (404) at link https://artonthehill.org.uk/take-part/favicon.ico (from https://artonthehill.org.uk/take-part/run-a-workshop/)
+22:55:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://artonthehill.org.uk/take-part/performers-preamble/performer-advert/ (from https://artonthehill.org.uk/take-part/performers-preamble/)
+22:55:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://artonthehill.org.uk/take-part/performers-preamble/performer-advert/ (from https://artonthehill.org.uk/take-part/performers-preamble/)
+22:55:30	Error: 	"Internal Server Error" (500) after 2 retries at link https://artonthehill.org.uk/take-part/performers-preamble/performer-advert/ (from https://artonthehill.org.uk/take-part/performers-preamble/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 32 seconds : 324 links scanned, 316 files written (17763884 bytes overall) [17116299 bytes received at 80737 bytes/sec], 1482752 bytes transferred using HTTP compression in 141 files, ratio 33%
+(5 errors, 2 warnings, 0 messages)

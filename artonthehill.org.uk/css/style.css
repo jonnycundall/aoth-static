@@ -1,0 +1,226 @@
+/* Go crazy with your own styles here */
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust:     100%;
+}
+
+
+html, body {
+    height: 100%;
+    background-color: #b0d5d5;
+}
+
+a {
+    color: #13284c;
+    font-weight: bold;
+}
+div.banner {
+    background: transparent url("Images/AOTH%20Website%20Header%202020.png") top center no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    padding-top: 10%;
+}
+
+.navbar-custom {
+    background-color: #ffef65;
+}
+
+
+@media (max-width: 768px) {
+    .hide-in-mobile { display: none !important; }
+
+    .map { height: 400px}
+}
+.nav > li > a {
+    color: black;
+    font-weight: 600;
+}
+
+.nav > li.active {
+    background-color: #63a023;
+}
+
+.navbar-inner {
+  text-align:center;
+}
+
+div.toggle {
+    width: 350px;
+}
+
+.navbar a {
+    color: #111111;
+}
+
+div.choicepanel {
+    background-color: aquamarine;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 5%;
+    margin-top: 20px;
+}
+
+div.choicepanel-main {
+    background-color: goldenrod;
+}
+
+div.choicepanel img {
+    width: 100%;
+}
+
+div.choicepanel.button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+img.resize {
+    object-fit: cover;
+    width: 540px;
+    height:540px;
+}
+
+img.small {
+    width: 280px; /* you can use % */
+    height: auto;
+}
+
+.tile {
+    margin: 3px;
+    height: 140px;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-repeat: no-repeat;
+    background-position: 15% 75%;
+    padding-bottom: 5px;
+}
+
+    .tile a {
+        color: white;
+        height: 4em;
+    }
+
+    .tile div {
+        height: 120px;
+    }
+
+    .tile .media {
+        float: right;
+    }
+
+    .tile .fav {
+        float: right;
+        vertical-align: text-bottom;
+        position: relative;
+        bottom: 6px;
+    }
+
+    .tile .favved {
+        float: right;
+        vertical-align: text-bottom;
+        position: relative;
+        bottom: 6px;
+    }
+
+/*#daysLeft {
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 76pt; 
+}
+
+#daysLeftText {
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 36pt;
+}*/
+div.color-0 {
+    background-color: #62A023
+}
+/* Main Primary color */
+div.color-4 {
+    background-color: #A6DC6E
+}
+
+div.color-8 {
+    background-color: #7EBA40
+}
+
+div.color-12 {
+    background-color: #48820C
+}
+
+div.color-16 {
+    background-color: #2E5C00
+}
+
+div.color-19 {
+    background-color: #1D8538
+}
+/* Main Secondary color (1) */
+div.color-1 {
+    background-color: #5BB773
+}
+
+div.color-5 {
+    background-color: #359B50
+}
+
+div.color-9 {
+    background-color: #0A6C24
+}
+
+div.color-13 {
+    background-color: #004C14
+}
+
+div.color-17 {
+    background-color: #B23727
+}
+/* Main Secondary color (2) */
+div.color-2 {
+    background-color: #F5887A
+}
+
+div.color-6 {
+    background-color: #CF5747
+}
+
+div.color-10 {
+    background-color: #901D0D
+}
+
+div.color-14 {
+    background-color: #660C00
+}
+
+div.color-18 {
+    background-color: #9C224D
+}
+/* Main Complement color */
+div.color-3 {
+    background-color: #D66B91
+}
+
+div.color-7 {
+    background-color: #B53E68
+}
+
+div.color-11 {
+    background-color: #7E0C34
+}
+
+div.color-15 {
+    background-color: #59001F
+}
+
+#map {
+    height: 650px;
+}
+
+footer {
+    margin-top: 20px;
+}

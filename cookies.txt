@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-artonthehill.org.uk	TRUE	/	FALSE	1999999999	__RequestVerificationToken	CdwfgsE9do1NmHCHl18_tBGq1wzlvqO3_QnS1Q2q88_YE6ArF7H7rmAPP3_oIK5htsg2F7YeBGUSwvCKrBPJX7uPUJrkfLciTYvfduFN8G41
-
